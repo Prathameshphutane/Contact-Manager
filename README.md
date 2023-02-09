@@ -1,14 +1,14 @@
 ### CS 6360 Individual Project 
 
-Running the Application
+### Running the Application
 
-Part- 1 – MySQL Workbench.
+#### Part- 1 – MySQL Workbench.
 1. Open MySQL Workbench.
 2. Run the createSchema.sql file to create the required tables.
 3. Run the contact-manager.sql file.
 4. The application can be used now.
 
-Part – 2 – Eclipse.
+#### Part – 2 – Eclipse.
 
 1. Open Eclipse.
 2. Select File -> Open Projects from file system -> Directory -> Choose     the contact_manager folder -> Finish
