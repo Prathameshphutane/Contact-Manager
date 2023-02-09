@@ -21,4 +21,4 @@ Note:
 2.	If the file JTattoo-1.6.13.jar is already added in the ClassPath, select cancel. Else click Add JARs Select JTattoo-1.6.13.jar which is located in folder ‘lib’ of the contact_manager project. Click on Apply and Close.
 
 ### Demo 
-https://utdallas.box.com/s/zu1nw4cbi28n72x7ae58zb2csk7gswct
+https://drive.google.com/file/d/1Es3z3qaQGr-4y1OSSG2mpWNXfNPrYwkZ/view?usp=share_link
